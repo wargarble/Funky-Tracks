@@ -1,0 +1,66 @@
+{
+  "tracks": [
+    {
+      "name": "I Got The",
+      "duration": 263,
+      "bpm": 90,
+      "canon": "https://soundcloud.com/wargarble/i-got-the"
+    },
+
+    {
+      "name": "Horn Star",
+      "duration": 300,
+      "bpm": 122,
+      "canon": null
+    },
+
+    {
+      "name": "Funkakke",
+      "duration": 115,
+      "bpm": 126,
+      "canon": "https://soundcloud.com/wargarble/funkakke"
+    },
+
+    {
+      "name": "Vintagegarble",
+      "duration": 207,
+      "bpm": 125,
+      "canon": "https://soundcloud.com/wargarble/vintage-garble"
+    },
+
+    {
+      "name": "Space Animal",
+      "duration": 216,
+      "bpm": 81,
+      "canon": "https://soundcloud.com/wargarble/space-animal"
+    },
+
+    {
+      "name": "Piano Solo",
+      "duration": 180,
+      "bpm": null,
+      "canon": null
+    },
+
+    {
+      "name": "Stone Fox",
+      "duration": 251,
+      "bpm": 106,
+      "canon": "https://soundcloud.com/wargarble/stone-fox"
+    },
+
+    {
+      "name": "James Brown Note",
+      "duration": 360,
+      "bpm": 120,
+      "canon": null
+    },
+
+    {
+      "name": "Roberta",
+      "duration": 211,
+      "bpm": 74,
+      "canon": "https://soundcloud.com/wargarble/roberta"
+    }
+  ]
+}
